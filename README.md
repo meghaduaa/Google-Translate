@@ -11,4 +11,9 @@ Installation guide:
 4. Run the script:
    python main.py
 
+--Dependencies
+Python 3.x
+Tkinter
+GoogleTrans
+
 Feel free to fork this repository, improve the project, and submit a pull request! 
